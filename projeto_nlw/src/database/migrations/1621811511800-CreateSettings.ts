@@ -39,5 +39,4 @@ export class CreateSettings1621811511800 implements MigrationInterface {
     public async down(queryRunner: QueryRunner): Promise<void> {
         await queryRunner.dropTable('settings')
     }
-
 }
