@@ -126,7 +126,7 @@ body {
 
 .text_support {
   border: 1px solid #cec9c9;
-  max-height: 500px;
+  max-height: 430px;
   overflow-y: scroll;
   /* border-bottom: 0px; */
 }
@@ -251,7 +251,7 @@ input[type="text"]:focus {
 .btn_atd {
   cursor: pointer;
   color: #fff;
-  background: #b32a2a;
+  background: hsl(0, 62%, 43%);
   border: none;
   height: 30px;
   padding: 10px;
